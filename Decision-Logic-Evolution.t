@@ -1,4 +1,4 @@
-# AHR Magnum Opus — Decision Logic Evolution
+xt# AHR Magnum Opus — Decision Logic Evolution
 
 ## Version 2.0 (Original) vs. Version 3.0 (Scar-Aware Avoidance)
 
